@@ -30,15 +30,15 @@ global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK =  'off'
 //👇 Auto react 
-global.AUTO_REACT =  'true'
+global.AUTO_REACT =  'false'
 //👇 Bad word Auto delete ( you must add bad words )
-global.ANTI_BADWORD =  'true'
+global.ANTI_BADWORD =  'false'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  'Weirdngkid' 
 //👇 Your name
-global.ownernma =  'Weirdngkid' 
+global.ownernma =  'Bilal' 
 //👇 Sticker package name
-global.packname =  'Bilal' 
+global.packname =  'weirdngkid on twitter' 
 //👇 Sticker Author Name
 global.author =  '_BILAL_' 
 //👇 Kick And Auto Delete Group link Senders
@@ -46,7 +46,7 @@ global.antilink =  'false'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '🐼'
+global.OWNER_REACT =  'false'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
 global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
@@ -93,7 +93,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94767438882"]
+global.NO_BLOCK = ["2348138648077"]
 
 
 
